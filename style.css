@@ -1,0 +1,55 @@
+h1{
+    color: red;
+    font-size: xx-large;
+}
+h2{
+    color:blue;
+    text-align:center;
+    font-size: xx-large;
+    
+    
+}
+p{
+    color:brown;
+    text-align:center;
+  font-size: xx-large;
+    
+}
+
+.header{
+    background-color: aqua;
+    display:flex;
+    justify-content: space-between;
+}
+.menu{
+   
+    align-items: center;
+}
+.grid{
+    background-color: aquamarine;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: flex-end;
+}
+.siteDescription{
+  background-color: lightskyblue;
+}
+body{
+    background-color: powderblue;
+}
+.aboutMe h1{
+text-align: center;
+}
+.menu1{
+    display: flex;
+    justify-content: flex-end;
+}
+.myPicture{
+    display: flex;
+    justify-content: center;
+}
